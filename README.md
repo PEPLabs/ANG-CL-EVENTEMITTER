@@ -17,4 +17,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Files to Edit:
 - src/app/components/button-menu/button-menu.component.html
 - src/app/components/button-menu/button-menu.component.ts
-- src/app/components/display/display.component/html
+- src/app/components/display/display.component.html
