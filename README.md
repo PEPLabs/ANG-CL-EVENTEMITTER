@@ -20,4 +20,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - src/app/components/display/display.component.html
 
 ## NOTE:
-Don't Panic if you don't see the test cases for this lab, Complete all the TODOs for the Test Cases to Load in.
+Do not Panic if you don't see the test cases for this lab, Complete all the TODOs for the Test Cases to Load in.
